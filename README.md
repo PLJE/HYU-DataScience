@@ -2,7 +2,7 @@
 2023 Spring, Data Science
 
 ### Project 1 
-Find association rules using the Apriori algorithm   
+Find association rules using the <b>Apriori<b/> algorithm   
 execution : apriori.py minimum_support(%) input.txt output.txt   
 
 ### Project 2
